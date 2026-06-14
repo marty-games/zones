@@ -62,13 +62,11 @@
     },
     {
         "id": 5,
-        "name": "Doblox",
-        "cover": "{HTML_URL}mga-unityx@main/doblox/icon.png",
-        "url": "{HTML_URL}mga-unityx@main/doblox/index.html",
-        "author": "Yandex",
-        "authorLink": "https://www.yandex.com/",
+        "name": "MMC Gaming",
+        "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwVhy2mHwV--uYd45YLP1PxbFktT9bretxWg&s",
+        "url": "https://www.youtube.com/@MMC-Gaming",
         "special": [
-            "Unity"
+            "Advertisement"
         ]
     },
     {
@@ -238,11 +236,11 @@
     },
     {
         "id": 21,
-        "name": "The Movie Database (TMDb)",
-        "cover": "{HTML_URL}mga-apps@main/tmdb/icon.png",
-        "url": "{HTML_URL}mga-apps@main/tmdb/index.html",
-        "author": "TMBd",
-        "authorLink": "https://www.themoviedb.org/",
+        "name": "Movies",
+        "cover": "{HTML_URL}mga-apps@main/movies/icon.png",
+        "url": "{HTML_URL}mga-apps@main/movies/index.html",
+        "author": "crax",
+        "authorLink": "https://crax.lol/",
         "special": [
             "Apps"
         ]
@@ -831,9 +829,9 @@
     {
         "id": 74,
         "name": "Spotify Preview",
-        "cover": "{HTML_URL}mga-apps@main/cinify/icon.png",
-        "url": "{HTML_URL}mga-apps@main/cinify/index.html",
-        "author": "Marty Games",
+        "cover": "{HTML_URL}mga-apps@main/spotify-preview/icon.png",
+        "url": "{HTML_URL}mga-apps@main/spotify-preview/index.html",
+        "author": "Unknown",
         "authorLink": "https://marty-games.github.io/",
         "special": [
             "Apps"
@@ -1611,8 +1609,8 @@
     },
     {
         "id": 145,
-        "name": "Geometry Dash Lite (Remake)",
-        "cover": "{HTML_URL}mga-unityx@main/dashmetry-geometry-dash-lite/icon.svg",
+        "name": "Dashmetry Lite",
+        "cover": "{HTML_URL}mga-unityx@main/dashmetry-geometry-dash-lite/icon.png",
         "url": "{HTML_URL}mga-unityx@main/dashmetry-geometry-dash-lite/index.html",
         "author": "1games.io",
         "authorLink": "htt://1games.io/",
@@ -1761,6 +1759,83 @@
         "authorLink": "https://github.com/martinmmcyt/",
         "special": [
             "Apps"
+        ]
+    },
+    {
+        "id": 159,
+        "name": "HTML Viewer",
+        "cover": "{HTML_URL}mga-apps@main/html-viewer/icon.png",
+        "url": "{HTML_URL}mga-apps@main/html-viewer/index.html",
+        "author": "OnlineViewer.net",
+        "authorLink": "https://html.onlineviewer.net/",
+        "special": [
+            "Apps"
+        ]
+    },
+    {
+        "id": 160,
+        "name": "Message Encrypter",
+        "cover": "{HTML_URL}mga-apps@main/message-encryptor/icon.png",
+        "url": "{HTML_URL}mga-apps@main/message-encryptor/index.html",
+        "author": "dinguschan!",
+        "authorLink": "https://github.com/dinguschan-owo",
+        "special": [
+            "Apps"
+        ]
+    },
+    {
+        "id": 161,
+        "name": "Hinoriti Rhythm Game",
+        "cover": "{HTML_URL}mga-unityx@main/hinotori-rhythm-game/icon.png",
+        "url": "{HTML_URL}mga-unityx@main/hinotori-rhythm-game/index.html",
+        "author": "nullrefrepro",
+        "authorLink": "https://nullrefrepro.itch.io/hinotori-rhythm",
+        "special": [
+            "Unity"
+        ]
+    },
+    {
+        "id": 162,
+        "name": "Bible App",
+        "cover": "{HTML_URL}mga-apps@main/bible/icon.png",
+        "url": "{HTML_URL}mga-apps@main/bible/index.html",
+        "author": "Omar Job Abesamis",
+        "authorLink": "https://github.com/ajbodev",
+        "special": [
+            "Apps"
+        ]
+    },
+    {
+        "id": 163,
+        "name": "Geometry Dash Advance",
+        "cover": "{HTML_URL}mga-emulatorjs@main/gba/geometry-dash-advance/icon.png",
+        "url": "{HTML_URL}mga-emulatorjs@main/gba/geometry-dash-advance/index.html",
+        "author": "AleFunky",
+        "authorLink": "https://github.com/AleFunky/",
+        "special": [
+            "EmulatorJS"
+        ]
+    },
+    {
+        "id": 164,
+        "name": "Half Life",
+        "cover": "{HTML_URL}mga-html5x@main/half-life/icon.png",
+        "url": "{HTML_URL}mga-html5x@main/half-life/index.html",
+        "author": "Valve",
+        "authorLink": "https://www.valvesoftware.com/en/",
+        "special": [
+            "HTML5"
+        ]
+    },
+    {
+        "id": 165,
+        "name": "Half Life: Opposing Force",
+        "cover": "{HTML_URL}mga-html5x@main/half-life-opposing-force/icon.png",
+        "url": "{HTML_URL}mga-html5x@main/half-life-opposing-force/index.html",
+        "author": "Gearbox Entertainment",
+        "authorLink": "https://2k.com/studios/gearbox/",
+        "special": [
+            "HTML5"
         ]
     }
 ]

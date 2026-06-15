@@ -1775,8 +1775,8 @@
     {
         "id": 160,
         "name": "Message Encrypter",
-        "cover": "{HTML_URL}mga-apps@main/message-encryptor/icon.png",
-        "url": "{HTML_URL}mga-apps@main/message-encryptor/index.html",
+        "cover": "{HTML_URL}mga-apps@main/message-encrypter/icon.png",
+        "url": "{HTML_URL}mga-apps@main/message-encrypter/index.html",
         "author": "dinguschan!",
         "authorLink": "https://github.com/dinguschan-owo",
         "special": [

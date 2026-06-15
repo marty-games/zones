@@ -1844,9 +1844,31 @@
         "cover": "{HTML_URL}mga-emulatorjs@main/gbc/half-life-gamma-burst/icon.png",
         "url": "{HTML_URL}mga-emulatorjs@main/gbc/half-life-gamma-burst/index.html",
         "author": "RoloMaisso",
-        "authorLink": "https://rolomaisso.itch.io/half-life-gamma-burst",
+        "authorLink": "https://rolomaisso.itch.io/",
         "special": [
             "EmulatorJS"
         ]
     },
+    {
+        "id": 167,
+        "name": "Animal Corssing: Wild World",
+        "cover": "{HTML_URL}mga-emulatorjs@main/nds/animal-crossing-wild-world/icon.png",
+        "url": "{HTML_URL}mga-emulatorjs@main/nds/animal-crossing-wild-world/index.html",
+        "author": "Nintendo EAD",
+        "authorLink": "https://nintendo.com",
+        "special": [
+            "EmulatorJS"
+        ]
+    },
+    {
+        "id": 168,
+        "name": "Angry Birds Slingshot Frenzy",
+        "cover": "{HTML_URL}mga-html5x@main/angry-birds-slingshot-frenzy/icon.png",
+        "url": "{HTML_URL}mga-html5x@main/angry-birds-slingshot-frenzy/index.html",
+        "author": "OssieOstrich101",
+        "authorLink": "https://itch.io/profile/ossieostrich101",
+        "special": [
+            "HTML5"
+        ]
+    }
 ]

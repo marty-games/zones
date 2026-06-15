@@ -1878,18 +1878,6 @@
         "url": "{HTML_URL}mga-apps@main/index.html",
         "author": "HawkStudioTech",
         "authorLink": "https://github.com/hawkstudio900",
-        "special": [
-            "Apps"
-        ]
-    },
-    {
-        "id": 170,
-        "name": "Mini HTML Viewer",
-        "cover": "{HTML_URL}mga-apps@main/mini-html-viewer/minihtmlviewre.png",
-        "url": "{HTML_URL}mga-apps@main/mini-html-viewer/html-viewer.html",
-        "author": "KingShedew",
-        "authorLink": "https://github.com/KingShedew",
-        "special": [
-            "Apps"
-        ]
-    },
+        "special": ["Apps"]
+    }
+]

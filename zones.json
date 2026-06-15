@@ -1837,5 +1837,16 @@
         "special": [
             "HTML5"
         ]
-    }
+    },
+    {
+        "id": 166,
+        "name": "Half Life: Gamma Burst",
+        "cover": "{HTML_URL}mga-emulatorjs@main/gbc/half-life-gamma-burst/icon.png",
+        "url": "{HTML_URL}mga-emulatorjs@main/gbc/half-life-gamma-burst/index.html",
+        "author": "RoloMaisso",
+        "authorLink": "https://rolomaisso.itch.io/half-life-gamma-burst",
+        "special": [
+            "EmulatorJS"
+        ]
+    },
 ]

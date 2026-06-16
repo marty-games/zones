@@ -1851,7 +1851,7 @@
     },
     {
         "id": 167,
-        "name": "Animal Corssing: Wild World",
+        "name": "Animal Crossing: Wild World",
         "cover": "{HTML_URL}mga-emulatorjs@main/nds/animal-crossing-wild-world/icon.png",
         "url": "{HTML_URL}mga-emulatorjs@main/nds/animal-crossing-wild-world/index.html",
         "author": "Nintendo EAD",
@@ -1873,9 +1873,9 @@
     },
     {
         "id": 169,
-        "name": "HawkTV(32Watch)",
-        "cover": "{HTML_URL}mga-apps@main/icon.png",
-        "url": "{HTML_URL}mga-apps@main/index.html",
+        "name": "HawkTV (32Watch)",
+        "cover": "{HTML_URL}mga-apps@main/hawk-tv/icon.png",
+        "url": "{HTML_URL}mga-apps@main/hawk-tv/index.html",
         "author": "HawkStudioTech",
         "authorLink": "https://github.com/hawkstudio900",
         "special": [

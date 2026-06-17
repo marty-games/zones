@@ -7,7 +7,7 @@
     },
     {
         "id": 0,
-        "name": "[!] Suggestions",
+        "name": "[!] Community Chat",
         "cover": "{HTML_URL}mga-apps@main/padlet/icon.png",
         "url": "{HTML_URL}mga-apps@main/padlet/index.html",
         "author": "Marty Games",
@@ -82,7 +82,7 @@
     },
     {
         "id": 7,
-        "name": "Discord Widget",
+        "name": "Discord",
         "cover": "{HTML_URL}mga-apps@main/discord-widget/icon.png",
         "url": "{HTML_URL}mga-apps@main/discord-widget/index.html",
         "author": "Marty Games",
@@ -828,7 +828,7 @@
     },
     {
         "id": 74,
-        "name": "Spotify Preview",
+        "name": "Spotify",
         "cover": "{HTML_URL}mga-apps@main/spotify-preview/icon.png",
         "url": "{HTML_URL}mga-apps@main/spotify-preview/index.html",
         "author": "Unknown",
@@ -1664,7 +1664,7 @@
     },
     {
         "id": 150,
-        "name": "Slide Down (Slope)",
+        "name": "Slide Down (Slope Remastered)",
         "cover": "{HTML_URL}mga-unityx@main/slide-down/icon.png",
         "url": "{HTML_URL}mga-unityx@main/slide-down/index.html",
         "author": "azgames.io",

@@ -1892,5 +1892,38 @@
         "special": [
             "Apps"
         ]
+    },
+    {
+        "id": 171,
+        "name": "Resident Evil",
+        "cover": "{HTML_URL}mga-emulatorjs@main/psx/resident-evil/icon.png",
+        "url": "{HTML_URL}mga-emulatorjs@main/psx/resident-evil/index.html",
+        "author": "Capcom",
+        "authorLink": "https://www.capcom.com",
+        "special": [
+            "EmulatorJS"
+        ]
+    },
+    {
+        "id": 172,
+        "name": "Resident Evil 2",
+        "cover": "{HTML_URL}mga-emulatorjs@main/n64/resident-evil-2/icon.png",
+        "url": "{HTML_URL}mga-emulatorjs@main/n64/resident-evil-2/index.html",
+        "author": "Capcom",
+        "authorLink": "https://www.capcom.com",
+        "special": [
+            "EmulatorJS"
+        ]
+    },
+    {
+        "id": 173,
+        "name": "Resident Evil 3: Nemesis",
+        "cover": "{HTML_URL}mga-emulatorjs@main/n64/resident-evil-3-nemesis/icon.png",
+        "url": "{HTML_URL}mga-emulatorjs@main/n64/resident-evil-3-nemesis/index.html",
+        "author": "Capcom",
+        "authorLink": "https://www.capcom.com",
+        "special": [
+            "EmulatorJS"
+        ]
     }
 ]

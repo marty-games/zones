@@ -1918,8 +1918,8 @@
     {
         "id": 173,
         "name": "Resident Evil 3: Nemesis",
-        "cover": "{HTML_URL}mga-emulatorjs@main/n64/resident-evil-3-nemesis/icon.png",
-        "url": "{HTML_URL}mga-emulatorjs@main/n64/resident-evil-3-nemesis/index.html",
+        "cover": "{HTML_URL}mga-emulatorjs@main/psx/resident-evil-3-nemesis/icon.png",
+        "url": "{HTML_URL}mga-emulatorjs@main/psx/resident-evil-3-nemesis/index.html",
         "author": "Capcom",
         "authorLink": "https://www.capcom.com",
         "special": [

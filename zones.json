@@ -1925,5 +1925,16 @@
         "special": [
             "EmulatorJS"
         ]
+    },
+    {
+        "id": 174,
+        "name": "Resident Evil Gaiden",
+        "cover": "{HTML_URL}mga-emulatorjs@main/gbc/resident-evil-gaiden/icon.png",
+        "url": "{HTML_URL}mga-emulatorjs@main/gbc/resident-evil-gaiden/index.html",
+        "author": "Capcom",
+        "authorLink": "https://www.capcom.com",
+        "special": [
+            "EmulatorJS"
+        ]
     }
 ]

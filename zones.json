@@ -1936,5 +1936,16 @@
         "special": [
             "EmulatorJS"
         ]
+    },
+    {
+        "id": 175,
+        "name": "Animal Crossing",
+        "cover": "{HTML_URL}mga-html5@main/animal-crossing/icon.png",
+        "url": "{HTML_URL}mga-html5@main/animal-crossing/index.html",
+        "author": "Nintendo EAD",
+        "authorLink": "https://nintendo.com",
+        "special": [
+            "HTML5"
+        ]
     }
 ]

@@ -1947,5 +1947,27 @@
         "special": [
             "HTML5"
         ]
+    },
+    {
+        "id": 176,
+        "name": "Resident Evil: Deadly Silence",
+        "cover": "{HTML_URL}mga-emulatorjs@main/nds/resident-evil-deadly-silence/icon.png",
+        "url": "{HTML_URL}mga-emulatorjs@main/nds/resident-evil-deadly-silence/index.html",
+        "author": "Capcom",
+        "authorLink": "https://www.capcom.com",
+        "special": [
+            "EmulatorJS"
+        ]
+    },
+    {
+        "id": 177,
+        "name": "Counter Strike (Demake)",
+        "cover": "{HTML_URL}mga-emulatorjs@main/nds/counter-strike/icon.png",
+        "url": "{HTML_URL}mga-emulatorjs@main/nds/counter-strike/index.html",
+        "author": "Fewnity",
+        "authorLink": "https://fewnity.itch.io/counter-strike-nintendo-ds",
+        "special": [
+            "EmulatorJS"
+        ]
     }
 ]

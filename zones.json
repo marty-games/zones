@@ -1547,7 +1547,7 @@
         "cover": "{HTML_URL}mga-emulatorjs@main/nds/need-for-speed-undercover/icon.png",
         "url": "{HTML_URL}mga-emulatorjs@main/nds/need-for-speed-undercover/index.html",
         "author": "Firebrand Games",
-        "authorLink": "https://www.firebrandgames.com/",
+        "authorLink": "https://www.firebrandgames.com",
         "special": [
             "EmulatorJS"
         ]
@@ -1558,7 +1558,7 @@
         "cover": "{HTML_URL}mga-emulatorjs@main/nds/need-for-speed-prostreet/icon.png",
         "url": "{HTML_URL}mga-emulatorjs@main/nds/need-for-speed-prostreet/index.html",
         "author": "Exiient Entertainment",
-        "authorLink": "https://exient.com/",
+        "authorLink": "https://exient.com",
         "special": [
             "EmulatorJS"
         ]
@@ -1569,7 +1569,7 @@
         "cover": "{HTML_URL}mga-emulatorjs@main/nds/need-for-speed-most-wanted/icon.png",
         "url": "{HTML_URL}mga-emulatorjs@main/nds/need-for-speed-most-wanted/index.html",
         "author": "Sensory Sweep Studios",
-        "authorLink": "https://www.mobygames.com/company/6190/sensory-sweep-studios/",
+        "authorLink": "https://www.mobygames.com/company/6190/sensory-sweep-studios",
         "special": [
             "EmulatorJS"
         ]
@@ -1580,7 +1580,7 @@
         "cover": "{HTML_URL}mga-emulatorjs@main/gba/lego-star-wars-the-video-game/icon.png",
         "url": "{HTML_URL}mga-emulatorjs@main/gba/lego-star-wars-the-video-game/index.html",
         "author": "Griptonite, Inc.",
-        "authorLink": "https://www.mobygames.com/company/3107/griptonite-inc/",
+        "authorLink": "https://www.mobygames.com/company/3107/griptonite-inc",
         "special": [
             "EmulatorJS"
         ]
@@ -1591,7 +1591,7 @@
         "cover": "{HTML_URL}mga-emulatorjs@main/gba/lego-star-wars-2-the-original-trilogy/icon.png",
         "url": "{HTML_URL}mga-emulatorjs@main/gba/lego-star-wars-2-the-original-trilogy/index.html",
         "author": "Amaze Entertainment, Inc.",
-        "authorLink": "https://www.mobygames.com/company/3109/amaze-entertainment-inc/",
+        "authorLink": "https://www.mobygames.com/company/3109/amaze-entertainment-inc",
         "special": [
             "EmulatorJS"
         ]
@@ -1602,7 +1602,7 @@
         "cover": "{HTML_URL}mga-html5x@main/hill-climb-racing-lite/icon.png",
         "url": "{HTML_URL}mga-html5x@main/hill-climb-racing-lite/index.html",
         "author": "Fingersoft",
-        "authorLink": "https://fingersoft.com/",
+        "authorLink": "https://fingersoft.com",
         "special": [
             "HTML5"
         ]
@@ -1613,7 +1613,7 @@
         "cover": "{HTML_URL}mga-unityx@main/dashmetry-geometry-dash-lite/icon.png",
         "url": "{HTML_URL}mga-unityx@main/dashmetry-geometry-dash-lite/index.html",
         "author": "1games.io",
-        "authorLink": "htt://1games.io/",
+        "authorLink": "htt://1games.io",
         "special": [
             "Unity"
         ]
@@ -1657,7 +1657,7 @@
         "cover": "{HTML_URL}mga-html5x@main/minecraft-pocket-edition-remastered/icon.png",
         "url": "{HTML_URL}mga-html5x@main/minecraft-pocket-edition-remastered/index.html",
         "author": "Mojang",
-        "authorLink": "https://minecraft.net/",
+        "authorLink": "https://minecraft.net",
         "special": [
             "HTML5"
         ]
@@ -1668,7 +1668,7 @@
         "cover": "{HTML_URL}mga-unityx@main/slide-down/icon.png",
         "url": "{HTML_URL}mga-unityx@main/slide-down/index.html",
         "author": "azgames.io",
-        "authorLink": "htt://azgames.io/",
+        "authorLink": "htt://azgames.io",
         "special": [
             "Unity"
         ]
@@ -1679,7 +1679,7 @@
         "cover": "{HTML_URL}mga-scratch@main/among-us-jester-mod/icon.png",
         "url": "{GITHACK_URL}mga-scratch/main/among-us-jester-mod/single-file.html",
         "author": "TimMcCool & Innersloth",
-        "authorLink": "https://scratch.mit.edu/users/timmccool/",
+        "authorLink": "https://scratch.mit.edu/users/timmccool",
         "special": [
             "Scratch"
         ]
@@ -1690,7 +1690,7 @@
         "cover": "{HTML_URL}mga-unityx@main/dashmetry-classic/icon.png",
         "url": "{HTML_URL}mga-unityx@main/dashmetry-classic/index.html",
         "author": "1games.io",
-        "authorLink": "htt://1games.io/",
+        "authorLink": "htt://1games.io",
         "special": [
             "Unity"
         ]
@@ -1701,7 +1701,7 @@
         "cover": "{HTML_URL}mga-html5x@main/fruit-ninja/icon.png",
         "url": "{HTML_URL}mga-html5x@main/fruit-ninja/index.html",
         "author": "HalfBrick Studios",
-        "authorLink": "https://www.halfbrick.com/",
+        "authorLink": "https://www.halfbrick.com",
         "special": [
             "HTML5"
         ]
@@ -1712,7 +1712,7 @@
         "cover": "{HTML_URL}mga-html5x@main/jetpack-joyride/icon.png",
         "url": "{HTML_URL}mga-html5x@main/jetpack-joyride/index.html",
         "author": "HalfBrick Studios",
-        "authorLink": "https://www.halfbrick.com/",
+        "authorLink": "https://www.halfbrick.com",
         "special": [
             "HTML5"
         ]
@@ -1723,7 +1723,7 @@
         "cover": "{HTML_URL}mga-html5x@main/rocket-league-2d/icon.png",
         "url": "{HTML_URL}mga-html5x@main/rocket-league-2d/index.html",
         "author": "Stephen Kempisty",
-        "authorLink": "https://github.com/skempisty/",
+        "authorLink": "https://github.com/skempisty",
         "special": [
             "HTML5"
         ]
@@ -1734,7 +1734,7 @@
         "cover": "{HTML_URL}mga-flash@main/duck-life/icon.png",
         "url": "{HTML_URL}mga-flash@main/duck-life/index.html",
         "author": "Wix Games",
-        "authorLink": "https://www.wixgames.co.uk/",
+        "authorLink": "https://www.wixgames.co.uk",
         "special": [
             "Flash"
         ]
@@ -1745,7 +1745,7 @@
         "cover": "{HTML_URL}mga-apps@main/htv/icon.png",
         "url": "{HTML_URL}mga-apps@main/htv/index.html",
         "author": "HawkTech",
-        "authorLink": "https://github.com/hawkstudio900/HawkTV",
+        "authorLink": "https://github.com/hawkstudio900",
         "special": [
             "Apps"
         ]
@@ -1756,7 +1756,7 @@
         "cover": "{HTML_URL}mga-apps@main/youtube-video-player/icon.png",
         "url": "{HTML_URL}mga-apps@main/youtube-video-player/index.html",
         "author": "Martin_MMC",
-        "authorLink": "https://github.com/martinmmcyt/",
+        "authorLink": "https://github.com/martinmmcyt",
         "special": [
             "Apps"
         ]
@@ -1767,7 +1767,7 @@
         "cover": "{HTML_URL}mga-apps@main/html-viewer/icon.png",
         "url": "{HTML_URL}mga-apps@main/html-viewer/index.html",
         "author": "OnlineViewer.net",
-        "authorLink": "https://html.onlineviewer.net/",
+        "authorLink": "https://html.onlineviewer.net",
         "special": [
             "Apps"
         ]
@@ -1789,7 +1789,7 @@
         "cover": "{HTML_URL}mga-unityx@main/hinotori-rhythm-game/icon.png",
         "url": "{HTML_URL}mga-unityx@main/hinotori-rhythm-game/index.html",
         "author": "nullrefrepro",
-        "authorLink": "https://nullrefrepro.itch.io/hinotori-rhythm",
+        "authorLink": "https://nullrefrepro.itch.io",
         "special": [
             "Unity"
         ]
@@ -1811,7 +1811,7 @@
         "cover": "{HTML_URL}mga-emulatorjs@main/gba/geometry-dash-advance/icon.png",
         "url": "{HTML_URL}mga-emulatorjs@main/gba/geometry-dash-advance/index.html",
         "author": "AleFunky",
-        "authorLink": "https://github.com/AleFunky/",
+        "authorLink": "https://github.com/AleFunky",
         "special": [
             "EmulatorJS"
         ]
@@ -1844,7 +1844,7 @@
         "cover": "{HTML_URL}mga-emulatorjs@main/gbc/half-life-gamma-burst/icon.png",
         "url": "{HTML_URL}mga-emulatorjs@main/gbc/half-life-gamma-burst/index.html",
         "author": "RoloMaisso",
-        "authorLink": "https://rolomaisso.itch.io/",
+        "authorLink": "https://rolomaisso.itch.io",
         "special": [
             "EmulatorJS"
         ]
@@ -1866,7 +1866,7 @@
         "cover": "{HTML_URL}mga-html5x@main/angry-birds-slingshot-frenzy/icon.png",
         "url": "{HTML_URL}mga-html5x@main/angry-birds-slingshot-frenzy/index.html",
         "author": "OssieOstrich101",
-        "authorLink": "https://itch.io/profile/ossieostrich101",
+        "authorLink": "https://ossieostrich101.itch.io",
         "special": [
             "HTML5"
         ]
@@ -1965,7 +1965,7 @@
         "cover": "{HTML_URL}mga-emulatorjs@main/nds/counter-strike/icon.png",
         "url": "{HTML_URL}mga-emulatorjs@main/nds/counter-strike/index.html",
         "author": "Fewnity",
-        "authorLink": "https://fewnity.itch.io/counter-strike-nintendo-ds",
+        "authorLink": "https://fewnity.itch.io",
         "special": [
             "EmulatorJS"
         ]
